@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Girassol|Julius+Sans+One|Niconne|Sacramento|Short+Stack|Yesteryear&display=swap');
+
+/*section1*/
+
+#section1 {
+    width: 100vw;
+    height: 100vh;
+    background: #b94d2f;
+    font-family: 'Girassol', cursive;
+}
+
+#section1 h3,
+#section1 p {
+    margin-top: 15px;
+    background-color: #73311e;
+    padding: 10px;
+    color: #ffc953;
+}
+
+.navbar-brand {
+    font-family: 'Girassol', cursive;
+    font-size: 2rem;
+}
+
+
+/*section2*/
+
+#section2 {
+    width: 100vw;
+    height: 100vh;
+    background: #b54e25;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #E2DB8D;
+    padding-top: 30px;
+}
+
+#section2 p,
+#section3 p {
+    margin-top: 35px;
+    background-color: #73311e;
+    padding: 10px;
+    color: #ffc953;
+    line-height: 2rem;
+}
+
+
+/*section3*/
+
+#section3 {
+    width: 100vw;
+    height: 400vh;
+    background: #b54e25;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #E2DB8D;
+}
+
+
+/*section4*/
+
+#section4 {
+    width: 100vw;
+    height: 100vh;
+    background: #6d2c13;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #E2DB8D;
+}
+
+
+/*footer*/
+
+#footer {
+    width: 100vw;
+    height: 50vh;
+    background: #332525;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #E2DB8D;
+}
+
+.btn {
+    margin-top: 32px;
+    color: rgb(230, 207, 6);
+    background: #6d2c13;
+}
+
+.btn:hover {
+    background: rgb(230, 207, 6);
+    color: #6d2c13;
+}
