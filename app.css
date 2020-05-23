@@ -35,7 +35,12 @@
 }
 
 #section2 p,
-#section3 p {
+#section3 p,
+#section4 p,
+#section5 p,
+#section6 p,
+#section7 p,
+#section8 p {
     margin-top: 35px;
     background-color: #73311e;
     padding: 10px;
@@ -48,7 +53,7 @@
 
 #section3 {
     width: 100vw;
-    height: 400vh;
+    height: 120vh;
     background: #b54e25;
     font-family: 'Julius Sans One', sans-serif;
     color: #E2DB8D;
@@ -59,8 +64,52 @@
 
 #section4 {
     width: 100vw;
-    height: 100vh;
+    height: 170vh;
+    background: #b54e25;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #E2DB8D;
+}
+
+
+/*section5*/
+
+#section5 {
+    width: 100vw;
+    height: 140vh;
+    background: #b54e25;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #E2DB8D;
+}
+
+
+/*section6*/
+
+#section6 {
+    width: 100vw;
+    height: 80vh;
     background: #6d2c13;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #E2DB8D;
+}
+
+
+/*section7*/
+
+#section7 {
+    width: 100vw;
+    height: 230vh;
+    background: #b54e25;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #E2DB8D;
+}
+
+
+/*section8*/
+
+#section8 {
+    width: 100vw;
+    height: 130vh;
+    background: #b54e25;
     font-family: 'Julius Sans One', sans-serif;
     color: #E2DB8D;
 }
